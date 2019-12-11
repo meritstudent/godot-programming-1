@@ -20,3 +20,8 @@ This project covers the following:
 * More complicated player movement script (see 8Way.gd)
   * Gravity
   * Jumping
+
+## Day 4 - Camera and Respawn
+This project covers the following:
+* [Camera](https://godotengine.org/qa/30663/how-get-camera-follow-sprite-kinematicbody2d-platform-game) that follows the player
+* [Respawn](https://godotengine.org/qa/46377/make-player-respawn-when-collidiong-with-collisionshape2d)
